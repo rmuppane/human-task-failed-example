@@ -7,13 +7,7 @@
     <runtime-strategy>SINGLETON</runtime-strategy>
     <marshalling-strategies/>
     <event-listeners/>
-    <task-event-listeners>
-        <task-event-listener>
-            <resolver>mvel</resolver>
-            <identifier>new org.kie.server.custom.ext.errorpath.TaskLevelErrorPathSetting()</identifier>
-            <parameters/>
-        </task-event-listener>
-    </task-event-listeners>
+    <task-event-listeners/>
     <globals/>
     <work-item-handlers/>
     <environment-entries/>
