@@ -10,7 +10,7 @@
     <task-event-listeners>
         <task-event-listener>
             <resolver>mvel</resolver>
-            <identifier>org.kie.server.custom.ext.errorpath.TaskLevelErrorPathSetting()</identifier>
+            <identifier>new org.kie.server.custom.ext.errorpath.TaskLevelErrorPathSetting()</identifier>
             <parameters/>
         </task-event-listener>
     </task-event-listeners>
