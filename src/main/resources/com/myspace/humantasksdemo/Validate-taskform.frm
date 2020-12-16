@@ -1,0 +1,1 @@
+{"id":"4699b939-2ce8-49bc-8ced-37c074aa8f0a","name":"Validate-taskform.frm","model":{"taskName":"Validate","processId":"HumanTasksDemo.humantaskfailed","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
